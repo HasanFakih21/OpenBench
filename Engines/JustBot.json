@@ -27,7 +27,7 @@
             "draw_adj": "movenumber=40 movecount=8 score=10"
         },
         "STC": {
-            "both_options": "Threads=1 Hash=3 Minimal=true2",
+            "both_options": "Threads=1 Hash=32 Minimal=true",
             "both_time_control": "8.0+0.08",
             "workload_size": 32
         },
