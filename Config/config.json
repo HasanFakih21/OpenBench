@@ -1,6 +1,6 @@
 {
     "client_version"     : 50,
-    "client_repo_url"    : "https://github.com/AndyGrant/OpenBench",
+    "client_repo_url"    : "https://github.com/HasanFakih21/OpenBench",
     "client_repo_ref"    : "master",
 
     "fastchess_min_version" : "1.8.1",
@@ -37,6 +37,7 @@
     ],
 
     "engines" : [
+        "JustBot",
         "4ku",
         "Berserk",
         "Bit-Genie",
