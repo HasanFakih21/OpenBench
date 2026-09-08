@@ -91,7 +91,7 @@
       "both_time_control": "N=40000"
     },
     "5k Soft Nodes": {
-      "both_options": "Threads=1 Hash=16 Minimal=true UseSoftNodes=true",
+      "both_options": "Threads=1 Hash=16 Minimal=true SoftNodes=true",
       "both_time_control": "N=5000"
     }
   }
